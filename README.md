@@ -1,6 +1,6 @@
-# Image Search App ✔️
+# PetFinder ✔️
 
-#### A simple Image Search App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗
+#### A App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗
 
 The App is using the [Unsplash Api] to searching and loading images.
 
@@ -14,7 +14,7 @@ The App is using the [Unsplash Api] to searching and loading images.
 - [ViewBinding] - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
 - [Jetpack Navigation] - Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app
 - [Glide] - An image loading and caching library for Android focused on smooth scrolling
-
+- [Firebase] - A library to manage the authentication within the App
    [ViewModel]: <https://developer.android.com/topic/libraries/architecture/viewmodel>
    [Jetpack Navigation]: <https://developer.android.com/guide/navigation/>
    [Hilt-Dagger]: <https://dagger.dev/hilt/>
@@ -28,10 +28,10 @@ The App is using the [Unsplash Api] to searching and loading images.
    [Coroutines]: <https://kotlinlang.org/docs/coroutines-overview.html>
    [MVVM (Model View View-Model)]: <https://developer.android.com/jetpack/guide#recommended-app-arch>
    [Unsplash Api]: <https://unsplash.com/developers>
+   [Firebase]: <https://firebase.google.com/>
    
 ### Project Architecture 🗼
 
 This app uses [MVVM (Model View View-Model)] architecture.
 
-![alt text](https://github.com/KadirKuruca/Mvvm-Retrofit-ImageSearchApp/blob/master/Mvmm-architecture.png?raw=true)
 
