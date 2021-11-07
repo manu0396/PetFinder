@@ -14,7 +14,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_circle_cross"
+<<<<<<< HEAD
         app:tint="@color/light_gray" />
+=======
+        app:tint="@color/light_gray"
+        android:layout_marginRight="16dp"
+        tools:ignore="VectorDrawableCompat" />
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
 
     <TextView
         android:id="@+id/login_title"
@@ -25,7 +31,12 @@
         android:layout_marginTop="16dp"
         android:text="@string/login"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toTopOf="parent" />
+=======
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="16dp" />
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/user_input_layout"
@@ -40,7 +51,13 @@
         app:endIconMode="clear_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@id/login_title">
+=======
+        app:layout_constraintTop_toBottomOf="@id/login_title"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="40dp">
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/user_input_edit"
@@ -67,7 +84,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/user_input_layout"
         app:errorEnabled="true"
+<<<<<<< HEAD
         app:errorIconDrawable="@drawable/ic_warning">
+=======
+        app:errorIconDrawable="@drawable/ic_warning"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="40dp">
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/pwd_input_edit"
@@ -91,7 +114,12 @@
         android:text="@string/enter"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/pwd_input_layout" />
+=======
+        app:layout_constraintTop_toBottomOf="@+id/pwd_input_layout"
+        android:layout_marginRight="16dp" />
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

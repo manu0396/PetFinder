@@ -13,3 +13,38 @@
 .externalNativeBuild
 .cxx
 local.properties
+<<<<<<< HEAD
+=======
+
+#built application files
+*.apk
+*.ap_
+*.aab
+                           
+# files for the dex VM
+*.dex
+                            
+# Java class files
+*.class
+                            
+# generated files
+bin/
+gen/
+                            
+# Local configuration file (sdk path, etc)
+local.properties
+                        
+# Windows thumbnail db
+Thumbs.db
+                
+# OSX files
+.DS_Store
+                            
+# Android Studio
+.idea
+output.json 
+    
+#NDK
+obj/
+.externalNativeBuild
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647

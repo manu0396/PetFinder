@@ -1,33 +1,57 @@
 {
   "project_info": {
+<<<<<<< HEAD
     "project_number": "786240463795",
     "project_id": "appadoskotlin",
     "storage_bucket": "appadoskotlin.appspot.com"
+=======
+    "project_number": "63344293973",
+    "project_id": "pruebavass-2b287",
+    "storage_bucket": "pruebavass-2b287.appspot.com"
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
   },
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:786240463795:android:4415ae91765623e742a1c6",
         "android_client_info": {
           "package_name": "com.appados.kotlin"
+=======
+        "mobilesdk_app_id": "1:63344293973:android:d5cf6e6914a3e0fb03bcdc",
+        "android_client_info": {
+          "package_name": "com.example.mvvm_retrofit_imagesearchapp"
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
         }
       },
       "oauth_client": [
         {
+<<<<<<< HEAD
           "client_id": "786240463795-o92gljk39cmdd0pra162arebskntkdu5.apps.googleusercontent.com",
+=======
+          "client_id": "63344293973-biui66chl85uubdeieo94sl7od6bq19k.apps.googleusercontent.com",
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
           "client_type": 3
         }
       ],
       "api_key": [
         {
+<<<<<<< HEAD
           "current_key": "AIzaSyDnhoKV1nUOUrkjROjz0_sDci9rdkpBtws"
+=======
+          "current_key": "AIzaSyCpCssbD9wNBYaf92rwQs8gy9_vajY5Crg"
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
+<<<<<<< HEAD
               "client_id": "786240463795-o92gljk39cmdd0pra162arebskntkdu5.apps.googleusercontent.com",
+=======
+              "client_id": "63344293973-biui66chl85uubdeieo94sl7od6bq19k.apps.googleusercontent.com",
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
               "client_type": 3
             }
           ]

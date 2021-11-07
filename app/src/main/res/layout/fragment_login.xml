@@ -4,7 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context=".LoginActivity">
+=======
+    tools:context=".ui.login.LoginFragment">
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/btn_container"
@@ -29,7 +33,11 @@
             app:layout_constraintTop_toBottomOf="@+id/btn_google" />
 
         <com.google.android.material.button.MaterialButton
+<<<<<<< HEAD
             android:id="@+id/btn_register_login"
+=======
+            android:id="@+id/btn_register"
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
             style="@style/ButtonStyle"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -44,7 +52,11 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="12dp"
             android:text="Login with "
+<<<<<<< HEAD
             app:layout_constraintBottom_toTopOf="@+id/btn_register_login"
+=======
+            app:layout_constraintBottom_toTopOf="@+id/btn_register"
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />

@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">AppadosKotlin2</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -26,4 +27,18 @@
 
     <string name="welcome_messages">¡Bienvenido, %1$s!</string>
     <string name="error">Coontraseña o password inválidas</string>
+=======
+    <string name="app_name">PetFinder</string>
+    <string name="wrong_username_or_password">Usuario y/o contraseña incorrecta</string>
+    <string name="no_matching_pwds">Contraseñas no coicidentes</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="pwd">Password</string>
+    <string name="enter">Entrar</string>
+    <string name="register_form">Formulario de registro</string>
+    <string name="mail">Correo electrónico</string>
+    <string name="write_pwd_again">Confirmar password</string>
+    <string name="register">Registrarse</string>
+    <string name="welcome_messages">Welcome %1$s!</string>
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
 </resources>

@@ -1,6 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Theme.AppadosKotlin2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+=======
+    <style name="Theme.MVVMRetrofitImageSearchApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_200</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>

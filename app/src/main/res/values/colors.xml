@@ -7,6 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
     <color name="main_background">#FFFFFF</color>
     <color name="green">#42A85B</color>
     <color name="light_gray">#D8D8D8</color>
@@ -22,4 +23,21 @@
     <color name="background_app">#F8FEF7</color>
     <color name="dark_gray">#666666</color>
     <color name="light_burgundy">#907E7E</color>
+=======
+        <color name="main_background">#FFFFFF</color>
+        <color name="green">#42A85B</color>
+        <color name="light_gray">#D8D8D8</color>
+        <color name="super_light_gray">#E9F1E7</color>
+        <color name="light_green">#E4F3E1</color>
+        <color name="super_light_green">#E6FEE2</color>
+        <color name="medium_green">#479335</color>
+        <color name="dark_green">#38752B</color>
+        <color name="super_dark_green">#264F1D</color>
+        <color name="highlight_green">#57F183</color>
+        <color name="burgundy">#4B1C1C</color>
+        <color name="red">#E20000</color>
+        <color name="background_app">#F8FEF7</color>
+        <color name="dark_gray">#666666</color>
+        <color name="light_burgundy">#907E7E</color>
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
 </resources>

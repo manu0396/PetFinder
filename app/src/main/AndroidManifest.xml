@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.appadoskotlin2">
 
     <application
         android:name=".Application"
         android:allowBackup="true"
+=======
+    package="com.example.mvvm_retrofit_imagesearchapp">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+
+    <application
+        android:name=".ImageSearchApplication"
+        android:allowBackup="false"
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
         android:icon="@drawable/ic_login_logo"
         android:label="@string/app_name"
         android:roundIcon="@drawable/ic_login_logo"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.AppadosKotlin2">
         <activity
             android:name=".MainActivity"
@@ -28,6 +41,16 @@
         <activity
             android:name=".LoginActivity"
             ></activity>
+=======
+        android:theme="@style/Theme.MVVMRetrofitImageSearchApp">
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
     </application>
 
 </manifest>

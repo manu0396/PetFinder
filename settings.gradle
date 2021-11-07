@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -8,3 +9,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AppadosKotlin2"
 include ':app'
+=======
+include ':app'
+rootProject.name = "MVVM-Retrofit-ImageSearchApp"
+>>>>>>> 1fbf5871d5df013302e9b4c4da95a5dcd314a647
