@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786240463795",
+    "project_id": "appadoskotlin",
+    "storage_bucket": "appadoskotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786240463795:android:4415ae91765623e742a1c6",
+        "android_client_info": {
+          "package_name": "com.appados.kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786240463795-o92gljk39cmdd0pra162arebskntkdu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnhoKV1nUOUrkjROjz0_sDci9rdkpBtws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786240463795-o92gljk39cmdd0pra162arebskntkdu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AppadosKotlin2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">App@Ñ2</string>
+    <string name="nav_header_subtitle">appados.info@appados.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_contract">Contratar</string>
+    <string name="menu_publish">Ofertar</string>
+    <string name="menu_close">Cerrar sesión</string>
+
+
+    <string name="register_form">Formulrio de registro</string>
+    <string name="mail">Correo electrónico</string>
+    <string name="pwd">Password</string>
+    <string name="write_pwd_again">Confirmar password</string>
+    <string name="no_matching_pwds">Contraseñas no coincidentes</string>
+    <string name="enter">Entrar</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="wrong_username_or_password">Password o contraseña inválidos</string>
+    <string name="register">Registrarse</string>
+
+    <string name="welcome_messages">¡Bienvenido, %1$s!</string>
+    <string name="error">Coontraseña o password inválidas</string>
+</resources>
